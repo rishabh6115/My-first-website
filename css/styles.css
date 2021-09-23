@@ -6,7 +6,7 @@ body {
 }
 .bottom-cloud {
   position: absolute;
-  bottom: 390px;
+  top: 350px;
   left:300px;
 }
 
